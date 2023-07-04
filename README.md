@@ -1,6 +1,6 @@
-my-portfolio
+# my-portfolio
 
-Description
+## Description
 
 I am creating this work portfolio as a way to showcase my relevant experience and skills for future opportunities. It is a means to highlight my knowledge in areas such as HTML, CSS, JavaScript, and Git, which are essential for web development projects.
 
@@ -12,11 +12,11 @@ Furthermore, this portfolio serves as a visual and interactive communication too
 
 I am excited to share my work and my commitment to constantly seeking improvement. I hope that this portfolio accurately represents my skills and opens doors to exciting opportunities in the future.
 
-Installation
+## Installation
 
 N/A
 
-Usage
+## Usage
 
 This portfolio is designed to provide a comprehensive view of my work and skills. Here are some ways you can make the most out of this portfolio:
 
@@ -28,8 +28,8 @@ This portfolio is designed to provide a comprehensive view of my work and skills
 
 4. Get in touch: If you are interested in collaborating on a project or have any inquiries, feel free to reach out to me through the contact information provided on my portfolio. I am open to work opportunities, partnership projects, or professional discussions.
 
-Credits
+## Credits
 N/A
 
-License
+## License
 MIT
