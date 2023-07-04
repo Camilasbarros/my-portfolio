@@ -1,75 +1,35 @@
-# Unit 2 Challenge: Portfolio
+my-portfolio
 
-## Your Task
+Description
 
-This week, you'll build a portfolio page, which you can add to as the course progresses. 
+I am creating this work portfolio as a way to showcase my relevant experience and skills for future opportunities. It is a means to highlight my knowledge in areas such as HTML, CSS, JavaScript, and Git, which are essential for web development projects.
 
-A portfolio of work can showcase your skills and talents to employers looking to fill a part-time or full-time position. An effective portfolio highlights your strongest work as well as the thought processes behind it. Students who have portfolios with deployed web applications (meaning they are live on the web) are typically very successful in their career search after the boot camp. This last point can’t be stressed enough: having several deployed projects is a minimum requirement to receive an initial interview at many companies. 
- 
-With these points in mind, in this challenge you’ll set yourself up for future success by applying the core skills you've recently learned: flexbox, media queries, and CSS variables. You'll get to practice your new skills while creating something that you will use during your job search. It’s a win-win that you'll likely be grateful for in the future!
+Through this portfolio, I aim to demonstrate my commitment to enhancing my skills and knowledge, as well as showcasing my ability to apply best practices in each area.
 
-**Note:** If you don't have enough web applications to showcase at this point, use placeholder images and names. You can change them to real applications as you create them later in the course.
+By gathering examples of my previous projects, I hope to convey my ability to work in teams, effectively solve problems, and deliver high-quality results. This portfolio also allows me to reflect on my professional growth over time.
 
-## Acceptance Criteria
+Furthermore, this portfolio serves as a visual and interactive communication tool, enabling potential employers or clients to get a glimpse of my working style, creativity, and dedication to projects.
 
-Here are the critical requirements necessary to develop a portfolio that satisfies a typical hiring manager’s needs:
+I am excited to share my work and my commitment to constantly seeking improvement. I hope that this portfolio accurately represents my skills and opens doors to exciting opportunities in the future.
 
-* When the page is loaded the page presents your name, a recent photo or avatar, and links to sections about you, your work, and how to contact you
-* When one of the links in the navigation is clicked then the UI scrolls to the corresponding section
-* When viewing the section about your work then the section contains titled images of your applications
-* When presented with the your first application then that application's image should be larger in size than the others
-* When images of the applications are clicked then the user is taken to that deployed application
-* When the page is resized or viewed on various screens and devices then the layout is responsive and adapts to my viewport
+Installation
 
-## Mock-Up
+N/A
 
-The following animation shows the web application's appearance and functionality:
+Usage
 
-![portfolio demo](./images/01-css-challenge-demo.gif)
+This portfolio is designed to provide a comprehensive view of my work and skills. Here are some ways you can make the most out of this portfolio:
 
-Feel free to use your own colors and images.
+1. Explore projects: Browse through the different showcased projects to gain insights into the types of work I have done. Each project includes a description, screenshots, and, when available, a link for live preview.
 
-## Grading Requirements
+2. View source code: For developers interested in diving deeper, you can access the source code of the projects. Simply click on the provided GitHub repository link in each project to access the complete source code.
 
-This challenge is graded based on the following criteria: 
+3. Assess my skills: By examining the projects and reading the descriptions, you can get an idea of my technical skills and the technologies I am proficient in. This can be helpful in assessing my suitability for job opportunities or collaboration on projects.
 
-### Technical Acceptance Criteria: 40%
+4. Get in touch: If you are interested in collaborating on a project or have any inquiries, feel free to reach out to me through the contact information provided on my portfolio. I am open to work opportunities, partnership projects, or professional discussions.
 
-* Satisfies all of the above acceptance criteria.
+Credits
+N/A
 
-### Deployment: 32%
-
-* Application deployed at live URL.
-
-* Application loads with no errors.
-
-* Application GitHub URL submitted.
-
-* GitHub repository contains application code.
-
-### Application Quality: 15%
-
-* Application resembles the mock-up functionality provided in the challenge instructions.
-
-### Repository Quality: 13%
-
-* Repository has a unique name.
-
-* Repository follows best practices for file structure and naming conventions.
-
-* Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
-
-* Repository contains multiple descriptive commit messages.
-
-* Repository contains quality readme with description, screenshot, link to deployed application.
-
-## Review
-
-You are required to submit BOTH of the following for review:
-
-* The URL of the deployed application.
-
-* The URL of the GitHub repository that contains your code. Give the repository a unique name and include a README file that describes the project.
-
----
-© 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+License
+MIT
