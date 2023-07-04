@@ -1,0 +1,216 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  line-height: 1.5;
+
+}
+
+h1,
+h2,
+h3{
+  margin: 10;
+}
+
+
+p {
+  margin: 10;
+  max-width: 100%;
+  margin-bottom: 20px;
+}
+
+
+.description {
+  position: relative;
+  background-size: cover;
+  background-position: center;
+  height: 400px; 
+}
+
+.description-text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: #fff;
+  font-size: 18px;
+  text-align: right;
+  width: 100%;
+}
+
+
+.name-and-links {
+  display: flex;
+  align-items: center;
+}
+
+.name-and-links h1 {
+  margin-right: 10px;
+}
+
+
+.nav {
+  flex-grow: 1;
+}
+
+.nav .left {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.nav-link {
+  margin-left: 10px;
+}
+
+
+.description {
+  background-color: #9a8ccf;
+  padding: 20px;
+  margin-top: 20px;
+  width: 100%;
+  box-sizing: border-box;
+  text-align: right;
+}
+
+
+.page-wrapper {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.about-container {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+.about-title {
+  flex: 1;
+}
+
+.about-content {
+  flex: 3;
+  text-align: justify;
+}
+
+
+.work-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: 20px;
+}
+
+.work-title {
+  flex: 1;
+}
+
+.work-content {
+  flex: 3;
+  text-align: justify;
+}
+
+.sub-container {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+
+.sub-container {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+
+.sub-box {
+  flex: 1;
+  padding: 50px;
+  margin-right: 20px;
+  
+}
+
+
+.contact-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.contact-links {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.contact-links a {
+  margin-left: 10px;
+}
+
+.section-title {
+  margin-top: 2em; 
+}
+
+body {
+  background-color: rgb(166, 191, 219); 
+}
+
+.sub-box {
+  width: 200px;
+  height: 200px;
+  background-size: cover;
+  background-position: center;
+}
+
+
+.image-button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: black;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+
+
+.hero-banner {
+  background-color: aliceblue;
+  padding: 20px;
+}
+
+.hero-banner h2 {
+  color: black;
+  font-size: 18px;
+  text-align: center;
+}
+
+
+.about-container,
+.work-container {
+  border: 2px solid black; 
+  padding: 20px; 
+}
+
+
+.about-container {
+  border: 2px solid black;
+  padding: 20px;
+}
+
+
+.hero-banner {
+  border: 2px solid black;
+  padding: 20px;
+}
+
+.description {
+  border: 2px solid black;
+  padding: 20px;
+}
+
+.contact-container {
+  border: 2px solid black;
+  padding: 20px;
+}
