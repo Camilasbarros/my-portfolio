@@ -14,7 +14,7 @@ I am excited to share my work and my commitment to constantly seeking improvemen
 
 ## Installation
 
-git@github.com:Camilasbarros/code-refactor.git
+git@github.com:Camilasbarros/my-portfolio.git
 
 ## Usage
 
