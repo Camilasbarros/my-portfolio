@@ -14,7 +14,7 @@ I am excited to share my work and my commitment to constantly seeking improvemen
 
 ## Installation
 
-N/A
+git@github.com:Camilasbarros/my-portfolio.git
 
 ## Usage
 
@@ -32,4 +32,4 @@ This portfolio is designed to provide a comprehensive view of my work and skills
 N/A
 
 ## License
-MIT
+This project is licensed under the MIT License. See the (LICENSE) file for details.
